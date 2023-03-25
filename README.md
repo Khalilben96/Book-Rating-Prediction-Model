@@ -16,6 +16,7 @@ This is a Machine learning project for the DSTI Python Labs. In this Jupyter Not
 5/ Seaborn: A Python data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 6/ Scikit-learn: A free software machine learning library for the Python programming language. It features various classification, regression, and clustering algorithms, including support-vector machines, random forests, gradient boosting, k-means, and DBSCAN. It is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
+
 How to run project ?
 
 1.Clone the repo
